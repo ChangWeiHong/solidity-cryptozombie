@@ -1,0 +1,11 @@
+truffle init
+npm install truffle-hdwallet-provider
+truffle compile
+
+truffle migrate --network rinkeby
+
+
+This lesson was teaching on how to deploy your app on the networks including rinkeby and loom
+
+How to install Loom:
+https://loomx.io/developers/en/basic-install-all.html#purpose
